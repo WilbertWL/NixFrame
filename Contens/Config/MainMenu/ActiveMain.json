@@ -1,0 +1,15 @@
+{
+    "TopMain" : {
+        "Active" : true,
+        "Name" : "Main1",
+        "Aling" : "left",
+        "Theme" : "Bootstrap4",
+        "Style" : "0"
+    },
+    "FooterMain" : {
+        "Active" : true,
+        "Name" : "Main1",
+        "Aling" : "left",
+        "Theme" : "Bootstrap4"
+    }
+}

@@ -1,0 +1,18 @@
+<html lang="es">
+    <head>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="robots" content="" />
+        <title>hh</title>
+    </head>
+    <body>
+        <div class="container">
+            <label>
+                <span class="text-center">
+                    <h1>Texto en H1</h1>
+                </span>
+            </label>
+            <label>Label 2</label>
+            <input type="button" value=""/>
+        </div>
+    </body>
+</html>

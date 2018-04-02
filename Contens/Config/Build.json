@@ -1,0 +1,20 @@
+{
+    "Main1": {
+        "Home" : {
+            "Link" : "./Home", 
+             "SubMain" : false
+        },
+        "Servicios" : {
+            "Link" : "./Servicios", 
+             "SubMain" : false
+        },
+        "Productos" : {
+            "Link" : "./Productos", 
+             "SubMain" : false
+        },
+        "Contactanos" : {
+            "Link" : "./Contactanos", 
+             "SubMain" : false
+        }   
+    }
+}

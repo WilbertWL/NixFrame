@@ -1,0 +1,9 @@
+{
+    "TopMain": {
+        "0" : {
+            "Open" : "<ul class='navbar-nav mr-auto smooth-scroll'>", 
+            "Button" : "<li class='nav-item active'><a class='nav-link waves-effect waves-light' href='{URL}'>{VALUE}</a></li>",
+            "Close" : "</ul>"
+        }  
+    }
+}

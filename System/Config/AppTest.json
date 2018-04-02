@@ -1,0 +1,15 @@
+{
+    "App_Name"                      : "MW Framework",
+    "App_Version"                   : "1.3",
+    "AdminDirectory"                : "Admin",
+    "Website_Name"                  : "MW Framework Website",
+    "Website_UrlFavicon"            : "",
+    "Website_Description"           : "Website Design Framework",
+    "Website_Shortname"             : "Fw Template",
+    "Website_Owner"                 : "Owner Website",
+    "Website_SocialUrl_Facebook"    : "https://facebook.com/",
+    "Website_SocialUrl_Twitter"     : "https://twitter.com",
+    "Website_SocialUrl_Linkedin"    : "https://www.linkedin.com/", 
+    "Website_SocialUrl_Instagram"   : "https://www.instagram.com/", 
+    "Website_SocialUrl_Youtube"     : "https://youtu.be/"
+}

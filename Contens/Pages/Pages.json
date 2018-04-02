@@ -1,0 +1,26 @@
+{
+    "0" : {
+        "Active" : true,
+        "Name" : "Home",
+        "Default" : true,
+        "Indexable" : "index, follow"
+    },
+    "1" : {
+        "Active" : true,
+        "Name" : "Servicios",
+        "Default" : false,
+        "Indexable" : "index, follow"
+    },
+    "2" : {
+        "Active" : true,
+        "Name" : "Productos",
+        "Default" : false,
+        "Indexable" : "index, follow"
+    },
+    "3" : {
+        "Active" : true,
+        "Name" : "Contactanos",
+        "Default" : false,
+        "Indexable" : "index, follow"
+    }
+}

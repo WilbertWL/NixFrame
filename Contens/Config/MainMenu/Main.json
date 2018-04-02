@@ -1,0 +1,28 @@
+{
+    "Main1": {
+        "Home" : {
+            "Type" : "Button",
+            "Link" : "./Home", 
+            "SubMain" : false,
+            "Contens" : ""
+        },
+        "Servicios" : {
+            "Type" : "Button",
+            "Link" : "./Servicios", 
+            "SubMain" : false,
+            "Contens" : ""
+        },
+        "Productos" : {
+            "Type" : "Button",
+            "Link" : "./Productos", 
+            "SubMain" : false,
+            "Contens" : ""
+        },
+        "Contactanos" : {
+            "Type" : "Button",
+            "Link" : "./Contactanos", 
+            "SubMain" : false,
+            "Contens" : ""
+        } 
+    }
+}

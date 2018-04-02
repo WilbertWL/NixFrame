@@ -1,0 +1,23 @@
+<IfModule mod_rewrite.c>
+# Activar RewriteEngine
+
+Options +FollowSymLinks
+RewriteEngine on
+
+RewriteBase /Nix
+RewriteCond %{SCRIPT_FILENAME} !-d
+RewriteCond %{SCRIPT_FILENAME} !-f
+ 
+# Reescribir la URL solicitada por el usuario
+#   Entrada:  ID-NOMBRE
+#   Salida: pruducto.php?id=ID
+
+RewriteRule ^(\w+)/(\w+)/(\w+)/?$ ?U=$1&O=$2&I=$3 [L]
+RewriteRule ^(\w+)/(\w+)/?$ ?U=$1&O=$2 [L]
+RewriteRule ^(\w+)/?$ ?U=$1 [L]
+#RewriteRule ^([^/]+)/(\d+)$ template/?U=$1&Plugin=$2
+#Rewriterule ^(.*)/(\w+)/$ ?U=$1&Plugin=$2
+</IfModule>
+
+ 
+    
